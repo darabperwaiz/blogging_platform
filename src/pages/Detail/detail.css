@@ -1,0 +1,23 @@
+.view_post_wrapper {
+    color: #ffff;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
+
+.view_post_header {
+    color: rgb(113, 118, 123);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.view_post_info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
